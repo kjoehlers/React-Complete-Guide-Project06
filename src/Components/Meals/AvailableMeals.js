@@ -5,7 +5,7 @@ import MealItem from "./MealItem/MealItem";
 
 import classes from "./AvailableMeals.module.css";
 
-const DUMMY_MEALS = require("../../DummyData/dummy-meals.json");
+const DUMMY_MEALS = require("../../dummydata/dummy-meals.json");
 // console.log(DUMMY_MEALS);
 
 const AvailableMeals = () => {

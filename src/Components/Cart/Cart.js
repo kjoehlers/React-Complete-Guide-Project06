@@ -8,7 +8,7 @@ const Cart = (props) => {
   const cartitems = (
     <ul className={classes["cart-items"]}>
       {[{ id: "c1", name: "Sushi", amount: 2, price: 12.99 }].map((item) => (
-        <li>{item.name}</li>
+        <li key={item.id}>{item.name}</li>
       ))}
     </ul>
   );
