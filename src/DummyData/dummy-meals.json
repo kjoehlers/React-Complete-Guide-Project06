@@ -1,26 +1,92 @@
 [
   {
-    "id": "m1",
-    "name": "Sushi",
-    "description": "Finest fish and veggies",
-    "price": 22.99
+    "id": 1,
+    "name": "Cheeseburger",
+    "description": "Juicy beef patty topped with melted cheese and crispy lettuce",
+    "price": 9.99
   },
   {
-    "id": "m2",
-    "name": "Schnitzel",
-    "description": "A german specialty!",
-    "price": 16.5
-  },
-  {
-    "id": "m3",
-    "name": "Barbecue Burger",
-    "description": "American, raw, meaty",
+    "id": 2,
+    "name": "Margherita Pizza",
+    "description": "Classic pizza with fresh tomato sauce, mozzarella cheese, and basil",
     "price": 12.99
   },
   {
-    "id": "m4",
-    "name": "Green Bowl",
-    "description": "Healthy...and green...",
-    "price": 18.99
+    "id": 3,
+    "name": "Chicken Caesar Salad",
+    "description": "Crisp romaine lettuce with grilled chicken, parmesan cheese, and Caesar dressing",
+    "price": 8.99
+  },
+  {
+    "id": 4,
+    "name": "Spaghetti Carbonara",
+    "description": "Spaghetti pasta with creamy bacon and egg sauce",
+    "price": 11.99
+  },
+  {
+    "id": 5,
+    "name": "Fish and Chips",
+    "description": "Battered cod fish served with French fries and tartar sauce",
+    "price": 14.99
+  },
+  {
+    "id": 6,
+    "name": "Chicken Fajitas",
+    "description": "Sizzling grilled chicken strips with onions and peppers, served with warm tortillas",
+    "price": 10.99
+  },
+  {
+    "id": 7,
+    "name": "Philly Cheesesteak",
+    "description": "Sliced beef with melted cheese, sautéed onions, and peppers on a hoagie roll",
+    "price": 8.99
+  },
+  {
+    "id": 8,
+    "name": "Pad Thai",
+    "description": "Stir-fried rice noodles with shrimp, tofu, bean sprouts, and peanuts",
+    "price": 9.99
+  },
+  {
+    "id": 9,
+    "name": "Grilled Cheese Sandwich",
+    "description": "Toasted bread with melted cheese, served with tomato soup",
+    "price": 7.99
+  },
+  {
+    "id": 10,
+    "name": "Miso Soup",
+    "description": "Traditional Japanese soup made with tofu, seaweed, and miso paste",
+    "price": 3.99
+  },
+  {
+    "id": 11,
+    "name": "Beef Stir-Fry",
+    "description": "Sliced beef with mixed vegetables in a savory sauce, served over rice",
+    "price": 11.99
+  },
+  {
+    "id": 12,
+    "name": "Baked Ziti",
+    "description": "Baked pasta with tomato sauce, ricotta cheese, and mozzarella cheese",
+    "price": 10.99
+  },
+  {
+    "id": 13,
+    "name": "Beef Tacos",
+    "description": "Soft or crispy tortillas filled with seasoned ground beef, lettuce, cheese, and salsa",
+    "price": 8.99
+  },
+  {
+    "id": 14,
+    "name": "Shrimp Scampi",
+    "description": "Linguine pasta with shrimp in a garlic and butter sauce",
+    "price": 12.99
+  },
+  {
+    "id": 15,
+    "name": "Caesar Salad",
+    "description": "Crisp romaine lettuce with parmesan cheese",
+    "price": 6.99
   }
 ]
